@@ -6,3 +6,6 @@ This project features a high-performance electric drivetrain using the QS180 mot
 # Frame will be a welded 
 
 I am planning on getting a UTV permit. To obtain a UTV VIN in Joplin, MO, you must apply through the Missouri Department of Revenue using Form 5062 and schedule a VIN inspection with the Missouri State Highway Patrol (MSHP) or Jasper County Sheriff’s Office.
+
+
+ASTM A500 tubing 
