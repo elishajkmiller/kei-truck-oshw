@@ -5,7 +5,7 @@ This is still in devolpment. Parts and lists may change
 
 pieces so far
 
-1-6 can be bought from QSMotors https://www.cnqsmotor.com
+1-6 can be bought from QSMotors https://www.cnqsmotor.com, the best way to contact them is via whatsapp. There are lots of trader sites that claim to be them, so be careful)
 
 1.D180A-90 mid drive motor — $326.7/pcs
 
@@ -13,7 +13,7 @@ pieces so far
 
 3.ND961200 Controller with bluetooth adapter — $631.0/pcs
 
-4.SCJ5066 Display — $55.0/pcs
+4. X8-E — $55.0/pcs
 
 5.Pedal throttle — $43.0/pcs
 
