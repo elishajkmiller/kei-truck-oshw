@@ -3,7 +3,15 @@ This is still in devolpment. Parts and lists may change
 
 # kei truck (UTV permit)
 
-This project features a high-performance electric drivetrain using the QS180 motor paired with the Fardriver ND961800 controller, capable of delivering up to 8000W of continuous power with peak efficiency over 90%. Designed for open-source hardware (OSHW) integration, all mechanical, electrical, and control system documentation will be shared to enable replication, modification, and improvement. The setup supports 96V battery systems, enabling high-speed and high-torque applications in custom EVs like kei trucks, trikes, or performance e-motorcycles.
+pieces so far
+1.D180A-90 mid drive motor — $326.7/pcs
+2.520 13T sprocket — $4.5/pcs
+3.ND961200 Controller with bluetooth adapter — $631.0/pcs
+4.SCJ5066 Display — $55.0/pcs
+https://www.cnqsmotor.com/product/5-inch-scj5066-1-can-bus-adjustable-speedometer-for-scooter/
+DKD LCD display can't work at 72V battery, so i give another recommendation.
+5.Pedal throttle — $43.0/pcs
+6. DNR Device — $9.0/pcs
 
 
 # Frame will be a welded 
@@ -13,3 +21,5 @@ ASTM A500 tubing
 
 
 I am planning on getting a UTV permit. To obtain a UTV VIN in Joplin, MO, you must apply through the Missouri Department of Revenue using Form 5062 and schedule a VIN inspection with the Missouri State Highway Patrol (MSHP) or Jasper County Sheriff’s Office.
+
+
