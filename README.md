@@ -22,8 +22,8 @@ pieces so far
 # Frame will be a welded in a ladder formation
 ASTM A500 tubing 
 
-differtial will be locked due to simplicity and me wanting to be able to drift. (legally on privte roads)
-
+#Differntial 
+will be a limited slip differential.
 
 I am planning on getting a UTV permit. To obtain a UTV VIN in Joplin, MO, you must apply through the Missouri Department of Revenue using Form 5062 and schedule a VIN inspection with the Missouri State Highway Patrol (MSHP) or Jasper County Sheriff’s Office.
 
