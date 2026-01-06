@@ -28,3 +28,4 @@ will be a limited slip differential.
 I am planning on getting a UTV permit. To obtain a UTV VIN in Joplin, MO, you must apply through the Missouri Department of Revenue using Form 5062 and schedule a VIN inspection with the Missouri State Highway Patrol (MSHP) or Jasper County Sheriff’s Office.
 
 
+
