@@ -1,31 +1,24 @@
-This is still in devolpment. Parts and lists may change
+Thinking
+Kei Truck EV Conversion (UTV Project)
+Status: Active Development. Parts list and specifications are subject to change.
+Parts List
+Items 1–6 can be sourced directly from QS Motor. It is recommended to contact them via WhatsApp to ensure you are communicating with the official factory.
+#
+	Component	Model/Spec	Est. Price (USD)
+1	Motor	D180A-90 Mid-Drive	$326.70
+2	Sprocket	520 13T	$4.50
+3	Controller	ND961200 (w/ Bluetooth adapter)	$631.00
+4	Display	X8-E	$55.00
+5	Throttle	Foot Pedal	$43.00
+6	Selector	DNR Device	$9.00
+Chassis & Drivetrain
 
+    Frame: Welded ladder formation.
+    Material: ASTM A500 structural steel tubing.
+    Differential: Limited Slip Differential (LSD).
 
-# kei truck (UTV permit)
+Legal & Registration
+This vehicle is being built to qualify for a UTV permit. To obtain a UTV VIN in Joplin, MO (2026 requirements):
 
-pieces so far
-
-1-6 can be bought from QSMotors https://www.cnqsmotor.com, the best way to contact them is via whatsapp. There are lots of trader sites that claim to be them, so be careful)
-
-1.D180A-90 mid drive motor — $326.7/pcs
-
-2.520 13T sprocket — $4.5/pcs
-
-3.ND961200 Controller with bluetooth adapter — $631.0/pcs
-
-4. X8-E — $55.0/pcs
-
-5.Pedal throttle — $43.0/pcs
-
-6. DNR Device — $9.0/pcs
-
-# Frame will be a welded in a ladder formation
-ASTM A500 tubing 
-
-#Differntial 
-will be a limited slip differential.
-
-I am planning on getting a UTV permit. To obtain a UTV VIN in Joplin, MO, you must apply through the Missouri Department of Revenue using Form 5062 and schedule a VIN inspection with the Missouri State Highway Patrol (MSHP) or Jasper County Sheriff’s Office.
-
-
-
+    Application: Apply through the Missouri Department of Revenue using Form 5062.
+    Inspection: Schedule a VIN inspection with the Missouri State Highway Patrol or the Jasper County Sheriff’s Office.
