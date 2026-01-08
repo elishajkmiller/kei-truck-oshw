@@ -3,7 +3,8 @@ Status: Active Development. Parts list and specifications are subject to change.
 
 ## Parts List
 Items 1–6 can be sourced directly from QS Motor. It is recommended to contact them via WhatsApp to ensure you are communicating with the official factory.
-# Component	Model/ What I paid for it
+
+# Electronics
 
 1	Motor	D180A-90 Mid-Drive	$326.70
 
@@ -19,17 +20,17 @@ Items 1–6 can be sourced directly from QS Motor. It is recommended to contact 
 
 #Chassis, Drivetrain, Suspension
 
-Frame: Welded ladder formation.
-ChassisMaterial: ASTM A500 structural steel tubing.
-Differential: Limited Slip Differential (LSD)
-Frame parts will be alluminum or carbon fiber
-Suspension: Leaf suspension on all wheels.
+# Frame: Welded ladder formation.
+Chassis Material: ASTM A500 structural steel tubing.
 
+# Differential: 
+Limited Slip Differential (LSD)
 
-Legal & Registration
-This vehicle is being built to qualify for a UTV permit. To obtain a UTV VIN in Joplin, MO (2026 requirements):
+# Frame
+Parts will be hand laminated carbon fiber from a 3d printed mold.
 
-Application: Apply through the Missouri Department of Revenue using Form 5062.
-Inspection: Schedule a VIN inspection with the Missouri State Highway Patrol or the Jasper County Sheriff’s Office.
+# Suspension
+Leaf suspension on all wheels.
 
-Or will go throgh montana LLC to UTV route
+# Legal & Registration
+This vehicle is being built to qualify for a UTV permit. To obtain a UTV VIN in Joplin, MO. YOu need go through a montana LLC to UTV.
