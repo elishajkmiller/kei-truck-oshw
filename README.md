@@ -8,7 +8,7 @@
 Status: Active Development. Parts list and specifications are subject to change.
 
 ## Parts List
-Items 1–6 can be sourced directly from QS Motor. It is recommended to contact them via WhatsApp to ensure you are communicating with the official factory.
+Items 1–6 can be sourced directly from QS Motor. It is recommended to contact them via WhatsApp to ensure you are communicating with the official factory. THeeir offical webiste for the kits (1-6) is https://www.cnqsmotor.com/
 
 # Electronics
 
