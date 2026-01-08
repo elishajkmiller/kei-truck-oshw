@@ -1,6 +1,9 @@
 # Kei Truck EV Conversion (UTV Project)
 <img width="537" height="535" alt="image" src="https://github.com/user-attachments/assets/349aa227-251e-42a5-95d5-4d59d77bae4b" />
 
+![bc30d62296ec4debbf26b485812dfe7d31da700e972d529d3b18bff0c348dc25](https://github.com/user-attachments/assets/b36fa007-649b-44df-a39e-372a4a90bb0d)
+
+
 
 Status: Active Development. Parts list and specifications are subject to change.
 
