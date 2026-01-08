@@ -21,7 +21,7 @@ Items 1–6 can be sourced directly from QS Motor. It is recommended to contact 
 
 6	Selector DNR Device	$9.00
 
-#Chassis, Drivetrain, Suspension
+# Chassis, Drivetrain, Suspension
 
 # Frame: Welded ladder formation.
 Chassis Material: ASTM A500 structural steel tubing.
