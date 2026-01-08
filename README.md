@@ -23,16 +23,16 @@ Items 1–6 can be sourced directly from QS Motor. It is recommended to contact 
 
 # Chassis, Drivetrain, Suspension
 
-# Frame: Welded ladder formation.
+## Frame: Welded ladder formation.
 Chassis Material: ASTM A500 structural steel tubing.
 
-# Differential: 
+## Differential: 
 Limited Slip Differential (LSD)
 
-# Frame
+## Frame
 Parts will be hand laminated carbon fiber from a 3d printed mold.
 
-# Suspension
+## Suspension
 Leaf suspension on all wheels.
 
 # Legal & Registration
