@@ -4,11 +4,10 @@
 ![bc30d62296ec4debbf26b485812dfe7d31da700e972d529d3b18bff0c348dc25](https://github.com/user-attachments/assets/b36fa007-649b-44df-a39e-372a4a90bb0d)
 
 
-
 Status: Active Development. Parts list and specifications are subject to change.
 
 ## Parts List
-Items 1–6 can be sourced directly from QS Motor. It is recommended to contact them via WhatsApp to ensure you are communicating with the official factory. THeeir offical webiste for the kits (1-6) is https://www.cnqsmotor.com/
+Items 1–6 can be sourced directly from QS Motor. It is recommended to contact them via WhatsApp to ensure you are communicating with the official factory. Their offical webiste for the kits (1-6) is https://www.cnqsmotor.com/
 
 # Electronics
 
@@ -32,7 +31,7 @@ Chassis Material: ASTM A500 structural steel tubing.
 ## Differential: 
 Limited Slip Differential (LSD)
 
-## Frame
+## Body
 Parts will be hand laminated carbon fiber from a 3d printed mold.
 
 ## Suspension
