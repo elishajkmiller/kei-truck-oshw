@@ -3,7 +3,6 @@
 
 ![bc30d62296ec4debbf26b485812dfe7d31da700e972d529d3b18bff0c348dc25](https://github.com/user-attachments/assets/b36fa007-649b-44df-a39e-372a4a90bb0d)
 
-
 Status: Active Development. Parts list and specifications are subject to change.
 
 ## Parts List
@@ -32,7 +31,7 @@ Chassis Material: ASTM A500 structural steel tubing.
 Limited Slip Differential (LSD)
 
 ## Body
-Parts will be hand laminated carbon fiber from a 3d printed mold.
+Will be vaccumed carbon fiber parts
 
 ## Suspension
 Leaf suspension on all wheels.
